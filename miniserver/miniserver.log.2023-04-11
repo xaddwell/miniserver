@@ -1,0 +1,102 @@
+2023-04-10 21:53:40,694 - C:/Users/Administrator/Desktop/ext/ext/miniserver/miniserver/miniserver.py[line:139] - DEBUG: mqtt connect with result code: 0
+2023-04-10 22:18:21,466 - C:/Users/Administrator/Desktop/ext/ext/miniserver/miniserver/miniserver.py[line:139] - DEBUG: mqtt connect with result code: 0
+2023-04-11 14:41:29,871 - C:/Users/Administrator/Desktop/ext/ext/miniserver/miniserver/miniserver.py[line:139] - DEBUG: mqtt connect with result code: 0
+2023-04-11 14:41:30,337 - C:/Users/Administrator/Desktop/ext/ext/miniserver/miniserver/miniserver.py[line:143] - DEBUG: mqtt disconnected with result code: 1
+2023-04-11 14:41:30,337 - C:/Users/Administrator/Desktop/ext/ext/miniserver/miniserver/miniserver.py[line:193] - DEBUG: mqtt connect with result code: 0
+2023-04-11 14:41:30,951 - C:/Users/Administrator/Desktop/ext/ext/miniserver/miniserver/miniserver.py[line:214] - DEBUG: mqtt on_subscribe 1
+2023-04-11 14:41:31,457 - C:/Users/Administrator/Desktop/ext/ext/miniserver/miniserver/miniserver.py[line:139] - DEBUG: mqtt connect with result code: 0
+2023-04-11 14:41:31,457 - C:/Users/Administrator/Desktop/ext/ext/miniserver/miniserver/miniserver.py[line:197] - DEBUG: mqtt disconnected with result code: 1
+2023-04-11 14:41:32,540 - C:/Users/Administrator/Desktop/ext/ext/miniserver/miniserver/miniserver.py[line:193] - DEBUG: mqtt connect with result code: 0
+2023-04-11 14:41:32,540 - C:/Users/Administrator/Desktop/ext/ext/miniserver/miniserver/miniserver.py[line:143] - DEBUG: mqtt disconnected with result code: 1
+2023-04-11 14:41:32,580 - C:/Users/Administrator/Desktop/ext/ext/miniserver/miniserver/miniserver.py[line:214] - DEBUG: mqtt on_subscribe 2
+2023-04-11 14:41:33,596 - C:/Users/Administrator/Desktop/ext/ext/miniserver/miniserver/miniserver.py[line:197] - DEBUG: mqtt disconnected with result code: 1
+2023-04-11 14:41:33,599 - C:/Users/Administrator/Desktop/ext/ext/miniserver/miniserver/miniserver.py[line:139] - DEBUG: mqtt connect with result code: 0
+2023-04-11 14:41:34,713 - C:/Users/Administrator/Desktop/ext/ext/miniserver/miniserver/miniserver.py[line:143] - DEBUG: mqtt disconnected with result code: 1
+2023-04-11 14:41:34,713 - C:/Users/Administrator/Desktop/ext/ext/miniserver/miniserver/miniserver.py[line:193] - DEBUG: mqtt connect with result code: 0
+2023-04-11 14:41:34,759 - C:/Users/Administrator/Desktop/ext/ext/miniserver/miniserver/miniserver.py[line:214] - DEBUG: mqtt on_subscribe 3
+2023-04-11 14:41:36,097 - C:/Users/Administrator/Desktop/ext/ext/miniserver/miniserver/miniserver.py[line:139] - DEBUG: mqtt connect with result code: 0
+2023-04-11 14:41:36,097 - C:/Users/Administrator/Desktop/ext/ext/miniserver/miniserver/miniserver.py[line:197] - DEBUG: mqtt disconnected with result code: 1
+2023-04-11 14:41:37,185 - C:/Users/Administrator/Desktop/ext/ext/miniserver/miniserver/miniserver.py[line:193] - DEBUG: mqtt connect with result code: 0
+2023-04-11 14:41:37,185 - C:/Users/Administrator/Desktop/ext/ext/miniserver/miniserver/miniserver.py[line:143] - DEBUG: mqtt disconnected with result code: 1
+2023-04-11 14:41:37,236 - C:/Users/Administrator/Desktop/ext/ext/miniserver/miniserver/miniserver.py[line:214] - DEBUG: mqtt on_subscribe 4
+2023-04-11 14:41:38,313 - C:/Users/Administrator/Desktop/ext/ext/miniserver/miniserver/miniserver.py[line:139] - DEBUG: mqtt connect with result code: 0
+2023-04-11 14:41:38,337 - C:/Users/Administrator/Desktop/ext/ext/miniserver/miniserver/miniserver.py[line:197] - DEBUG: mqtt disconnected with result code: 1
+2023-04-11 14:41:39,415 - C:/Users/Administrator/Desktop/ext/ext/miniserver/miniserver/miniserver.py[line:143] - DEBUG: mqtt disconnected with result code: 1
+2023-04-11 14:41:39,419 - C:/Users/Administrator/Desktop/ext/ext/miniserver/miniserver/miniserver.py[line:193] - DEBUG: mqtt connect with result code: 0
+2023-04-11 14:41:39,460 - C:/Users/Administrator/Desktop/ext/ext/miniserver/miniserver/miniserver.py[line:214] - DEBUG: mqtt on_subscribe 5
+2023-04-11 14:41:40,476 - C:/Users/Administrator/Desktop/ext/ext/miniserver/miniserver/miniserver.py[line:197] - DEBUG: mqtt disconnected with result code: 1
+2023-04-11 14:41:40,479 - C:/Users/Administrator/Desktop/ext/ext/miniserver/miniserver/miniserver.py[line:139] - DEBUG: mqtt connect with result code: 0
+2023-04-11 14:41:41,579 - C:/Users/Administrator/Desktop/ext/ext/miniserver/miniserver/miniserver.py[line:143] - DEBUG: mqtt disconnected with result code: 1
+2023-04-11 14:41:41,579 - C:/Users/Administrator/Desktop/ext/ext/miniserver/miniserver/miniserver.py[line:193] - DEBUG: mqtt connect with result code: 0
+2023-04-11 14:41:41,601 - C:/Users/Administrator/Desktop/ext/ext/miniserver/miniserver/miniserver.py[line:214] - DEBUG: mqtt on_subscribe 6
+2023-04-11 14:41:42,699 - C:/Users/Administrator/Desktop/ext/ext/miniserver/miniserver/miniserver.py[line:197] - DEBUG: mqtt disconnected with result code: 1
+2023-04-11 14:41:42,699 - C:/Users/Administrator/Desktop/ext/ext/miniserver/miniserver/miniserver.py[line:139] - DEBUG: mqtt connect with result code: 0
+2023-04-11 14:41:43,780 - C:/Users/Administrator/Desktop/ext/ext/miniserver/miniserver/miniserver.py[line:143] - DEBUG: mqtt disconnected with result code: 1
+2023-04-11 14:41:43,783 - C:/Users/Administrator/Desktop/ext/ext/miniserver/miniserver/miniserver.py[line:193] - DEBUG: mqtt connect with result code: 0
+2023-04-11 14:41:43,815 - C:/Users/Administrator/Desktop/ext/ext/miniserver/miniserver/miniserver.py[line:214] - DEBUG: mqtt on_subscribe 7
+2023-04-11 14:41:44,901 - C:/Users/Administrator/Desktop/ext/ext/miniserver/miniserver/miniserver.py[line:139] - DEBUG: mqtt connect with result code: 0
+2023-04-11 14:41:44,901 - C:/Users/Administrator/Desktop/ext/ext/miniserver/miniserver/miniserver.py[line:197] - DEBUG: mqtt disconnected with result code: 1
+2023-04-11 14:41:45,987 - C:/Users/Administrator/Desktop/ext/ext/miniserver/miniserver/miniserver.py[line:143] - DEBUG: mqtt disconnected with result code: 1
+2023-04-11 14:41:45,987 - C:/Users/Administrator/Desktop/ext/ext/miniserver/miniserver/miniserver.py[line:193] - DEBUG: mqtt connect with result code: 0
+2023-04-11 14:41:46,405 - C:/Users/Administrator/Desktop/ext/ext/miniserver/miniserver/miniserver.py[line:214] - DEBUG: mqtt on_subscribe 8
+2023-04-11 14:41:48,737 - C:/Users/Administrator/Desktop/ext/ext/miniserver/miniserver/miniserver.py[line:197] - DEBUG: mqtt disconnected with result code: 1
+2023-04-11 14:41:48,740 - C:/Users/Administrator/Desktop/ext/ext/miniserver/miniserver/miniserver.py[line:139] - DEBUG: mqtt connect with result code: 0
+2023-04-11 14:41:50,141 - C:/Users/Administrator/Desktop/ext/ext/miniserver/miniserver/miniserver.py[line:143] - DEBUG: mqtt disconnected with result code: 1
+2023-04-11 14:41:50,156 - C:/Users/Administrator/Desktop/ext/ext/miniserver/miniserver/miniserver.py[line:193] - DEBUG: mqtt connect with result code: 0
+2023-04-11 14:41:50,521 - C:/Users/Administrator/Desktop/ext/ext/miniserver/miniserver/miniserver.py[line:214] - DEBUG: mqtt on_subscribe 9
+2023-04-11 14:41:51,590 - C:/Users/Administrator/Desktop/ext/ext/miniserver/miniserver/miniserver.py[line:139] - DEBUG: mqtt connect with result code: 0
+2023-04-11 14:41:51,591 - C:/Users/Administrator/Desktop/ext/ext/miniserver/miniserver/miniserver.py[line:197] - DEBUG: mqtt disconnected with result code: 1
+2023-04-11 14:41:52,640 - C:/Users/Administrator/Desktop/ext/ext/miniserver/miniserver/miniserver.py[line:143] - DEBUG: mqtt disconnected with result code: 1
+2023-04-11 14:41:52,643 - C:/Users/Administrator/Desktop/ext/ext/miniserver/miniserver/miniserver.py[line:193] - DEBUG: mqtt connect with result code: 0
+2023-04-11 14:41:52,680 - C:/Users/Administrator/Desktop/ext/ext/miniserver/miniserver/miniserver.py[line:214] - DEBUG: mqtt on_subscribe 10
+2023-04-11 14:41:53,738 - C:/Users/Administrator/Desktop/ext/ext/miniserver/miniserver/miniserver.py[line:197] - DEBUG: mqtt disconnected with result code: 1
+2023-04-11 14:41:53,738 - C:/Users/Administrator/Desktop/ext/ext/miniserver/miniserver/miniserver.py[line:139] - DEBUG: mqtt connect with result code: 0
+2023-04-11 14:41:54,822 - C:/Users/Administrator/Desktop/ext/ext/miniserver/miniserver/miniserver.py[line:143] - DEBUG: mqtt disconnected with result code: 1
+2023-04-11 14:41:54,822 - C:/Users/Administrator/Desktop/ext/ext/miniserver/miniserver/miniserver.py[line:193] - DEBUG: mqtt connect with result code: 0
+2023-04-11 14:41:54,865 - C:/Users/Administrator/Desktop/ext/ext/miniserver/miniserver/miniserver.py[line:214] - DEBUG: mqtt on_subscribe 11
+2023-04-11 14:41:55,920 - C:/Users/Administrator/Desktop/ext/ext/miniserver/miniserver/miniserver.py[line:197] - DEBUG: mqtt disconnected with result code: 1
+2023-04-11 14:41:55,923 - C:/Users/Administrator/Desktop/ext/ext/miniserver/miniserver/miniserver.py[line:139] - DEBUG: mqtt connect with result code: 0
+2023-04-11 14:41:57,471 - C:/Users/Administrator/Desktop/ext/ext/miniserver/miniserver/miniserver.py[line:193] - DEBUG: mqtt connect with result code: 0
+2023-04-11 14:41:57,471 - C:/Users/Administrator/Desktop/ext/ext/miniserver/miniserver/miniserver.py[line:143] - DEBUG: mqtt disconnected with result code: 1
+2023-04-11 14:41:57,622 - C:/Users/Administrator/Desktop/ext/ext/miniserver/miniserver/miniserver.py[line:214] - DEBUG: mqtt on_subscribe 12
+2023-04-11 14:41:58,580 - C:/Users/Administrator/Desktop/ext/ext/miniserver/miniserver/miniserver.py[line:139] - DEBUG: mqtt connect with result code: 0
+2023-04-11 14:41:58,584 - C:/Users/Administrator/Desktop/ext/ext/miniserver/miniserver/miniserver.py[line:197] - DEBUG: mqtt disconnected with result code: 1
+2023-04-11 14:42:00,915 - C:/Users/Administrator/Desktop/ext/ext/miniserver/miniserver/miniserver.py[line:143] - DEBUG: mqtt disconnected with result code: 1
+2023-04-11 14:42:00,918 - C:/Users/Administrator/Desktop/ext/ext/miniserver/miniserver/miniserver.py[line:193] - DEBUG: mqtt connect with result code: 0
+2023-04-11 14:42:00,956 - C:/Users/Administrator/Desktop/ext/ext/miniserver/miniserver/miniserver.py[line:214] - DEBUG: mqtt on_subscribe 13
+2023-04-11 14:42:01,996 - C:/Users/Administrator/Desktop/ext/ext/miniserver/miniserver/miniserver.py[line:197] - DEBUG: mqtt disconnected with result code: 1
+2023-04-11 14:42:01,996 - C:/Users/Administrator/Desktop/ext/ext/miniserver/miniserver/miniserver.py[line:139] - DEBUG: mqtt connect with result code: 0
+2023-04-11 14:42:02,694 - C:/Users/Administrator/Desktop/ext/ext/miniserver/miniserver/miniserver.py[line:147] - DEBUG: klm/iot/minigw/v2/klm-r2mqtt/NG102/pipe/ping b'v10000EB96000007D3'
+2023-04-11 14:42:03,116 - C:/Users/Administrator/Desktop/ext/ext/miniserver/miniserver/miniserver.py[line:193] - DEBUG: mqtt connect with result code: 0
+2023-04-11 14:42:03,161 - C:/Users/Administrator/Desktop/ext/ext/miniserver/miniserver/miniserver.py[line:214] - DEBUG: mqtt on_subscribe 14
+2023-04-11 14:47:40,332 - C:/Users/Administrator/Desktop/ext/ext/miniserver/miniserver/miniserver.py[line:139] - DEBUG: mqtt connect with result code: 0
+2023-04-11 14:48:04,091 - C:/Users/Administrator/Desktop/ext/ext/miniserver/miniserver/miniserver.py[line:147] - DEBUG: klm/iot/minigw/v2/klm-r2mqtt/NG102/pipe/ping b'v10000ED00000007DF'
+2023-04-11 15:04:47,939 - C:/Users/Administrator/Desktop/ext/ext/miniserver/miniserver/miniserver.py[line:139] - DEBUG: mqtt connect with result code: 0
+2023-04-11 15:05:08,072 - C:/Users/Administrator/Desktop/ext/ext/miniserver/miniserver/miniserver.py[line:147] - DEBUG: klm/iot/minigw/v2/klm-r2mqtt/NG102/pipe/ping b'v10000F10000000801'
+2023-04-11 15:06:11,993 - C:/Users/Administrator/Desktop/ext/ext/miniserver/miniserver/miniserver.py[line:139] - DEBUG: mqtt connect with result code: 0
+2023-04-11 15:06:38,086 - C:/Users/Administrator/Desktop/ext/ext/miniserver/miniserver/miniserver.py[line:147] - DEBUG: klm/iot/minigw/v2/klm-r2mqtt/NG102/pipe/ping b'v10000F15A00000804'
+2023-04-11 15:08:03,562 - C:/Users/Administrator/Desktop/ext/ext/miniserver/miniserver/miniserver.py[line:140] - DEBUG: mqtt connect with result code: 0
+2023-04-11 15:08:08,469 - C:/Users/Administrator/Desktop/ext/ext/miniserver/miniserver/miniserver.py[line:148] - DEBUG: klm/iot/minigw/v2/klm-r2mqtt/NG102/pipe/ping b'v10000F1B400000807'
+2023-04-11 15:08:27,759 - C:/Users/Administrator/Desktop/ext/ext/miniserver/miniserver/miniserver.py[line:140] - DEBUG: mqtt connect with result code: 0
+2023-04-11 15:08:38,511 - C:/Users/Administrator/Desktop/ext/ext/miniserver/miniserver/miniserver.py[line:148] - DEBUG: klm/iot/minigw/v2/klm-r2mqtt/NG102/pipe/ping b'v10000F1D200000808'
+2023-04-11 15:08:38,512 - C:/Users/Administrator/Desktop/ext/ext/miniserver/miniserver/miniserver.py[line:205] - DEBUG: queue {"gateway_id": "NG102", "msgid": 2056, "version": "v1.1", "type": "GW_HEARTBEAT_NOTIFY", "data": ""}
+2023-04-11 15:09:08,687 - C:/Users/Administrator/Desktop/ext/ext/miniserver/miniserver/miniserver.py[line:148] - DEBUG: klm/iot/minigw/v2/klm-r2mqtt/NG102/pipe/ping b'v10000F1F000000809'
+2023-04-11 15:09:08,687 - C:/Users/Administrator/Desktop/ext/ext/miniserver/miniserver/miniserver.py[line:205] - DEBUG: queue {"gateway_id": "NG102", "msgid": 2057, "version": "v1.1", "type": "GW_HEARTBEAT_NOTIFY", "data": ""}
+2023-04-11 15:09:29,670 - C:/Users/Administrator/Desktop/ext/ext/miniserver/miniserver/miniserver.py[line:139] - DEBUG: mqtt connect with result code: 0
+2023-04-11 15:09:38,893 - C:/Users/Administrator/Desktop/ext/ext/miniserver/miniserver/miniserver.py[line:147] - DEBUG: klm/iot/minigw/v2/klm-r2mqtt/NG102/pipe/ping b'v10000F20F0000080A'
+2023-04-11 15:09:38,894 - C:/Users/Administrator/Desktop/ext/ext/miniserver/miniserver/miniserver.py[line:204] - DEBUG: queue {"gateway_id": "NG102", "msgid": 2058, "version": "v1.1", "type": "GW_HEARTBEAT_NOTIFY", "data": ""}
+2023-04-11 15:09:43,618 - C:/Users/Administrator/Desktop/ext/ext/miniserver/miniserver/miniserver.py[line:140] - DEBUG: mqtt connect with result code: 0
+2023-04-11 15:10:09,072 - C:/Users/Administrator/Desktop/ext/ext/miniserver/miniserver/miniserver.py[line:148] - DEBUG: klm/iot/minigw/v2/klm-r2mqtt/NG102/pipe/ping b'v10000F22D0000080B'
+2023-04-11 15:10:09,073 - C:/Users/Administrator/Desktop/ext/ext/miniserver/miniserver/miniserver.py[line:205] - DEBUG: queue {"gateway_id": "NG102", "msgid": 2059, "version": "v1.1", "type": "GW_HEARTBEAT_NOTIFY", "data": ""}
+2023-04-11 15:10:39,551 - C:/Users/Administrator/Desktop/ext/ext/miniserver/miniserver/miniserver.py[line:148] - DEBUG: klm/iot/minigw/v2/klm-r2mqtt/NG102/pipe/ping b'v10000F24B0000080C'
+2023-04-11 15:10:39,551 - C:/Users/Administrator/Desktop/ext/ext/miniserver/miniserver/miniserver.py[line:205] - DEBUG: queue {"gateway_id": "NG102", "msgid": 2060, "version": "v1.1", "type": "GW_HEARTBEAT_NOTIFY", "data": ""}
+2023-04-11 15:11:09,471 - C:/Users/Administrator/Desktop/ext/ext/miniserver/miniserver/miniserver.py[line:148] - DEBUG: klm/iot/minigw/v2/klm-r2mqtt/NG102/pipe/ping b'v10000F2690000080D'
+2023-04-11 15:11:09,471 - C:/Users/Administrator/Desktop/ext/ext/miniserver/miniserver/miniserver.py[line:205] - DEBUG: queue {"gateway_id": "NG102", "msgid": 2061, "version": "v1.1", "type": "GW_HEARTBEAT_NOTIFY", "data": ""}
+2023-04-11 15:11:39,478 - C:/Users/Administrator/Desktop/ext/ext/miniserver/miniserver/miniserver.py[line:148] - DEBUG: klm/iot/minigw/v2/klm-r2mqtt/NG102/pipe/ping b'v10000F2870000080E'
+2023-04-11 15:11:39,478 - C:/Users/Administrator/Desktop/ext/ext/miniserver/miniserver/miniserver.py[line:205] - DEBUG: queue {"gateway_id": "NG102", "msgid": 2062, "version": "v1.1", "type": "GW_HEARTBEAT_NOTIFY", "data": ""}
+2023-04-11 15:12:09,459 - C:/Users/Administrator/Desktop/ext/ext/miniserver/miniserver/miniserver.py[line:148] - DEBUG: klm/iot/minigw/v2/klm-r2mqtt/NG102/pipe/ping b'v10000F2A50000080F'
+2023-04-11 15:12:09,459 - C:/Users/Administrator/Desktop/ext/ext/miniserver/miniserver/miniserver.py[line:205] - DEBUG: queue {"gateway_id": "NG102", "msgid": 2063, "version": "v1.1", "type": "GW_HEARTBEAT_NOTIFY", "data": ""}
+2023-04-11 15:12:39,465 - C:/Users/Administrator/Desktop/ext/ext/miniserver/miniserver/miniserver.py[line:148] - DEBUG: klm/iot/minigw/v2/klm-r2mqtt/NG102/pipe/ping b'v10000F2C300000810'
+2023-04-11 15:12:39,465 - C:/Users/Administrator/Desktop/ext/ext/miniserver/miniserver/miniserver.py[line:205] - DEBUG: queue {"gateway_id": "NG102", "msgid": 2064, "version": "v1.1", "type": "GW_HEARTBEAT_NOTIFY", "data": ""}
+2023-04-11 15:13:05,568 - C:/Users/Administrator/Desktop/ext/ext/miniserver/miniserver/miniserver.py[line:139] - DEBUG: mqtt connect with result code: 0
+2023-04-11 15:13:32,191 - C:/Users/Administrator/Desktop/ext/ext/miniserver/miniserver/miniserver.py[line:139] - DEBUG: mqtt connect with result code: 0
